@@ -1,1 +1,1 @@
-Primeiro programa teste, seleciona uma imagem e a satura.
+Este programa simula um sistema simples de gerenciamento de pedidos em um restaurante, permitindo registrar pedidos por mesa, calcular a conta com taxa de serviço, dividir o valor entre pessoas, adicionar ou remover itens do cardápio e fechar a mesa ao final do atendimento.
